@@ -1,0 +1,61 @@
+.icon{
+    text-align: center;
+    width: 100px;
+    height: 100px;
+}
+
+body{
+    background-color: blue;
+    font-family:georgia;
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+.Robloks{
+  background-color: lightgrey;
+  font-family: fancy text;
+}
+
+h1{
+    background-color: white;
+    color: grey;
+    font-family: georgia;
+    border-radius: 35px;
+
+
+}
+
+p{
+    color:black;
+    background-color: white;
+    border-radius: 40px;
+    padding: 10px;
+    margin: 10px;
+    font-family:Fixel; 
+    font-size:medium;
+}
+
+h2{ 
+    color: yellow;
+    background-color: blue;
+    border-radius: 40px;
+    padding: 10px;
+    margin: 10px;
+    font-family:lorem ipsum;
+}
+
+p1{
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    text-align: 10px;
+}
+
+
+
+
+
+
+
