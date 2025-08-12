@@ -36,8 +36,8 @@ p{
 }
 
 h2{ 
-    color: yellow;
-    background-color: blue;
+    color: black;
+    background-color: lightblue;
     border-radius: 40px;
     padding: 10px;
     margin: 10px;
@@ -53,7 +53,6 @@ p1{
     text-align: 10px;
 }
 
-
 a{
     color:white;
     background-color: black; 
@@ -62,7 +61,4 @@ a{
     padding: 10px;
     text-decoration: none;
 }
-
-
-
 
